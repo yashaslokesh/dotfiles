@@ -103,3 +103,5 @@ source $ZSH/oh-my-zsh.sh
 
 
 [ -f "/Users/yashas/.ghcup/env" ] && source "/Users/yashas/.ghcup/env" # ghcup-env
+
+export PATH=$PATH:/opt/homebrew/bin/zig
