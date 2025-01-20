@@ -1,7 +1,7 @@
 [user]
 	name = Yashas Lokesh
 	email = yashas.lokesh@gmail.com
-	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILxqW780Ib2Rc3yB1qZYfW0jrAcOdrdwlGgZ64fqTurL
+	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILgMT6NwKg/ZicaydINM3JiLnLd0bBZZlnDOiLid6Lei
 [gpg]
 	format = ssh
 [gpg "ssh"]

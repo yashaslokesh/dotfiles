@@ -45,6 +45,7 @@ function parse_git_branch() {
 # fast to render as a result.  The extra whitespace before the
 # newline is necessary to avoid some rendering bugs.
 PROMPT=$'\n'$_YASHAS_PROMPT$' \n$ '
-RPROMPT='${GIT_COLOR}$(git_prompt_info)%{$reset_color%}%'
+
+RPROMPT="${GIT_COLOR}$(git_prompt_info)%{$reset_color%}"
 
 
