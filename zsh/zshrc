@@ -121,8 +121,6 @@ eval "$(rbenv init -)"
 # Created by `pipx` on 2024-11-28 02:39:10
 export PATH="$PATH:/Users/yashas/.local/bin"
 
-eval "$(pyenv init --path)"
-
 # SSH aliases
 alias ssh-rpi0="ssh yashas@yashas.local"
 alias ssh-dell-latitude-e7240="ssh yashas@yasherver"
